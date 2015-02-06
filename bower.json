@@ -1,0 +1,15 @@
+{
+  "name": "ng-email",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-gravatar": "~0.2.4"
+  }
+}
